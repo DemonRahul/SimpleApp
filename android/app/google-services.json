@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1046302639626",
+    "project_id": "demonic-chats",
+    "storage_bucket": "demonic-chats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046302639626:android:b5f6086e0547d0375841f3",
+        "android_client_info": {
+          "package_name": "rahul.demonic_chats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046302639626-3cs90r42rtdi9ub3pe2gd9ls7o6ctud0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAjgNiPmjNevcV4ACMAVhEPsN5NIcJRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046302639626-3cs90r42rtdi9ub3pe2gd9ls7o6ctud0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
